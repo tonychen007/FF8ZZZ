@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="FF8.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="LZS.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="QLZ4.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FF8.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="lz4.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="LZS.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="QLZ4.h">
+      <Filter>header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="header">
+      <UniqueIdentifier>{ead4823e-6514-4767-8d58-6d175bdd8866}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{3a5d4dcd-f948-45b0-b9a3-3656f8503331}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
